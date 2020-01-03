@@ -91,7 +91,7 @@ I implemented a CNN consisting of 8 layers inspired by NVIDIA's CNN structure. I
 An Adam Optimizer with a learning rate of 1e-4 with decay of 1e-6 has been chosen.
 
 <p align="center">
-	<img src="/media/model_architecture.png" alt="result"
+	<img src="/media/model_architecture.PNG" alt="result"
 	title="result"  />
 </p>
 
